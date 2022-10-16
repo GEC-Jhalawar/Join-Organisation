@@ -2,6 +2,8 @@
 Enter your details in the [StudentList.json](StudentList.json) file to join the organisation.
 
 Input in format of json object after the last added data separated by comma ","
+
+
 ```
 {
     "Name":"<Your Name>",
@@ -11,8 +13,10 @@ Input in format of json object after the last added data separated by comma ","
   }
 ```
 
+
 After Adding data to StudentList.json file also add your entry in this [README.md](README.md) file.
 To add your data in README.md file add following data just after the last Student data before  ``` </tbody> ``` tag in the table of your Batch,
+
 
 ```
 <tr>
@@ -20,8 +24,10 @@ To add your data in README.md file add following data just after the last Studen
   <td>Your Github Handle</td>
 </tr>
 ```
+
 In case your Batch table is not added, add your batch ``` ### Batch Joining Yr.-Passing Yr. ``` in chronical order.
 Then Below that add the default Table template : 
+
 
 ```
 <table align="center">
@@ -39,6 +45,7 @@ Then Below that add the default Table template :
   </tbody>
 </table>
 ```
+
 
 At any stage if you face any problem or want to reach out to us open a discussion here.
 
@@ -74,6 +81,7 @@ All done! Create your Pull Request and you will get an invite to join this Organ
     </tr>
   </tbody>
 </table>
+
 
 ### Batch 2020-2024
 
