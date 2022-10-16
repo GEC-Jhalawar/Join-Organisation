@@ -60,6 +60,18 @@ All done! Create your Pull Request and you will get an invite to join this Organ
       <td>Aryan Raj</td>
       <td>aryaraj132</td>
     </tr>
+    <tr>
+      <td>Jagmohan Kumar</td>
+      <td>jagmohankrrai</td>
+    </tr>
+    <tr>
+      <td>Bhagwat Shuryavanshi</td>
+      <td>bhagwat007</td>
+    </tr>
+    <tr>
+      <td>Dikshit Sharma</td>
+      <td>dikshitsharma1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -74,8 +86,8 @@ All done! Create your Pull Request and you will get an invite to join this Organ
   </thead>
   <tbody>
     <tr>
-      <td>Aryan Raj</td>
-      <td>aryaraj132</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
