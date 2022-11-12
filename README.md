@@ -94,10 +94,10 @@ All done! Create your Pull Request and you will get an invite to join this Organ
   </thead>
   <tbody>
   <tr>
-    <td>Dummy Data</td>
-    <td>dummy data</td>
-    <td>dummy data</td>
-    <td>dummy data</td>
+    <td>Dummy 20-24</td>
+    <td>dummy 2024</td>
+    <td>dummy 20-24</td>
+    <td>dummy 20-24</td>
   </tr>
   </tbody>
 </table>
