@@ -37,12 +37,12 @@ All done! Create your Pull Request and you will get an invite to join this Organ
     <td>Aryan Raj</td>
     <td>19EEJCS007</td>
     <td>aryaraj132@gmail.com</td>
-    <td>aryaraj132</td>
+    <td><a href="https://github.com/aryaraj132">aryaraj132</a></td>
   </tr>  <tr>
     <td>Dummy 19-23</td>
     <td>dummy 19-23</td>
     <td>dummy 19-23</td>
-    <td>dummy 19-23</td>
+    <td><a href="https://github.com/dummy 19-23">dummy 19-23</a></td>
   </tr>
   </tbody>
 </table>
@@ -64,7 +64,7 @@ All done! Create your Pull Request and you will get an invite to join this Organ
     <td>Dummy 20-24</td>
     <td>dummy 20-24</td>
     <td>dummy 20-24</td>
-    <td>dummy 20-24</td>
+    <td><a href="https://github.com/dummy 20-24">dummy 20-24</a></td>
   </tr>
   </tbody>
 </table>
