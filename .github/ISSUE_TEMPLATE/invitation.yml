@@ -4,6 +4,13 @@ title: "Please invite me to the GECJ GitHub Community"
 labels: [invite me to the organisation]
 body:
   - type: input
+    id: passing-year
+    attributes:
+      label: Passing Year
+      placeholder: Insert your passing year here (e.g. 2023)
+    validations:
+      required: true
+  - type: input
     id: Name
     attributes:
       label: Name
