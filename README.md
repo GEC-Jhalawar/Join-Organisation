@@ -53,32 +53,30 @@ All done! Create your Pull Request and you will get an invite to join this Organ
 
 ## List of Students
 
+<!-- Student Data Start -->
 ### Batch 2019-2023
 
 <table align="center">
   <thead>
     <tr>
-      <th>Name of Students</th>
-      <th>Github Handle</th>
+      <td>Name</td>
+      <td>Roll</td>
+      <td>Email</td>
+      <td>Github username</td>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Aryan Raj</td>
-      <td>aryaraj132</td>
-    </tr>
-    <tr>
-      <td>Jagmohan Kumar</td>
-      <td>jagmohankrrai</td>
-    </tr>
-    <tr>
-      <td>Bhagwat Shuryavanshi</td>
-      <td>bhagwat007</td>
-    </tr>
-    <tr>
-      <td>Dikshit Sharma</td>
-      <td>dikshitsharma1</td>
-    </tr>
+  <tr>
+    <td>Aryan Raj</td>
+    <td>19EEJCS007</td>
+    <td>aryaraj132@gmail.com</td>
+    <td>aryaraj132</td>
+  </tr>  <tr>
+    <td>Dummy 19-23</td>
+    <td>dummy 19-23</td>
+    <td>dummy 19-23</td>
+    <td>dummy 19-23</td>
+  </tr>
   </tbody>
 </table>
 
@@ -88,14 +86,22 @@ All done! Create your Pull Request and you will get an invite to join this Organ
 <table align="center">
   <thead>
     <tr>
-      <th>Name of Students</th>
-      <th>Github Handle</th>
+      <td>Name</td>
+      <td>Roll</td>
+      <td>Email</td>
+      <td>Github username</td>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
+  <tr>
+    <td>Dummy Data</td>
+    <td>dummy data</td>
+    <td>dummy data</td>
+    <td>dummy data</td>
+  </tr>
   </tbody>
 </table>
+
+
+<!-- Student Data End -->
+
