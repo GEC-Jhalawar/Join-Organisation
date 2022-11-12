@@ -1,0 +1,15 @@
+name: Add to StudentList.json
+on:
+  workflow_dispatch:
+  issues:
+    types:
+      - labeled
+jobs:
+  add-student:
+    if: github.event.label.name == 'invite me to the organisation'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: GEC-Jhalawar/gh-action-community/src/add-student@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
