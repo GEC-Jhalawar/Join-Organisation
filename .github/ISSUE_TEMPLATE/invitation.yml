@@ -34,5 +34,5 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please make sure to update your details in [StudentList.json](../utils/StudentList.json) file in case it is not automatically updated.
+        Please make sure to update your details in [StudentList.json](utils/StudentList.json) file in case it is not automatically updated.
         Feel free to check out other cool repositories of the GECJ [here](https://github.com/GEC-Jhalawar)
