@@ -4,7 +4,6 @@ on:
   issues:
     types:
       - labeled
-      - reopened
 jobs:
   add-student:
     if: github.event.label.name == 'invite me to the organisation'
