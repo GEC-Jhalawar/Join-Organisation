@@ -1,5 +1,5 @@
 # Join-Organisation
-Enter your details in the [StudentList.json](StudentList.json) file to join the organisation.
+Enter your details in the [StudentList.json](utils/StudentList.json) file to join the organisation.
 
 Input in format of json object after the last added data separated by comma ","
 
@@ -11,39 +11,6 @@ Input in format of json object after the last added data separated by comma ","
     "Email":"<Your Email Id, preferably with which github is registered>",
     "Github username":"<Your Github Username>"
   }
-```
-
-
-After Adding data to StudentList.json file also add your entry in this [README.md](README.md) file.
-To add your data in README.md file add following data just after the last Student data before  ``` </tbody> ``` tag in the table of your Batch,
-
-
-```
-<tr>
-  <td>Your Name</td>
-  <td>Your Github Handle</td>
-</tr>
-```
-
-In case your Batch table is not added, add your batch ``` ### Batch Joining Yr.-Passing Yr. ``` in chronical order.
-Then Below that add the default Table template : 
-
-
-```
-<table align="center">
-  <thead>
-    <tr>
-      <th>Name of Students</th>
-      <th>Github Handle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Your Name</td>
-      <td>Your Github Handle</td>
-    </tr>
-  </tbody>
-</table>
 ```
 
 
