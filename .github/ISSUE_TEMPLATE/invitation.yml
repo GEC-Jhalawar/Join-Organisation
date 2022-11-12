@@ -1,6 +1,6 @@
 name: Get Invitation to join the organization
 description: I would like to join the college organization
-title: "Please invite me to the GECJ GitHub Community Organization"
+title: "Please invite me to the GECJ GitHub Community"
 labels: [invite me to the organisation]
 body:
   - type: input
