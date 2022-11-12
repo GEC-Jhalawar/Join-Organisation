@@ -20,14 +20,14 @@ body:
   - type: input
     id: Email
     attributes:
-      label: Email Id
+      label: Email
       placeholder: Insert your email id here
     validations:
       required: true
   - type: input
     id: username
     attributes:
-      label: Github Username
+      label: Github username
       placeholder: Insert your Github username here
     validations:
       required: true
