@@ -1,5 +1,5 @@
 # Join-Organisation
-Enter your details in the [StudentList.json](StudentList.json) file to join the organisation.
+Enter your details in the [StudentList.json](utils/StudentList.json) file to join the organisation.
 
 Input in format of json object after the last added data separated by comma ","
 

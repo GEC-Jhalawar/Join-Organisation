@@ -1,0 +1,38 @@
+name: Get Invitation to join the organization
+description: I would like to join the college organization
+title: "Please invite me to the GECJ GitHub Community Organization"
+labels: [invite me to the organisation]
+body:
+  - type: input
+    id: Name
+    attributes:
+      label: Name
+      placeholder: Insert your name here
+    validations:
+      required: true
+  - type: input
+    id: Roll
+    attributes:
+      label: Roll
+      placeholder: Insert your roll number here
+    validations:
+      required: true
+  - type: input
+    id: Email
+    attributes:
+      label: Email Id
+      placeholder: Insert your email id here
+    validations:
+      required: true
+  - type: input
+    id: username
+    attributes:
+      label: Github Username
+      placeholder: Insert your Github username here
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure to update your details in [StudentList.json](./utils/StudentList.json) file in case it is not automatically updated.
+        Feel free to check out other cool repositories of the GECJ [here](https://github.com/GEC-Jhalawar)
