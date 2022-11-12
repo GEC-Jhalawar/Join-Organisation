@@ -28,16 +28,6 @@ All done! Create your Pull Request and you will get an invite to join this Organ
     <td>19EEJCS007</td>
     <td>aryaraj132@gmail.com</td>
     <td><a href="https://github.com/aryaraj132">aryaraj132</a></td>
-  </tr>  <tr>
-    <td>Dummy 19-23</td>
-    <td>dummy 19-23</td>
-    <td>dummy 19-23</td>
-    <td><a href="https://github.com/dummy 19-23">dummy 19-23</a></td>
-  </tr>  <tr>
-    <td>Jagmohan Kumar rai</td>
-    <td>19eejcs016</td>
-    <td>jagmohankrrai@gmail.com</td>
-    <td><a href="https://github.com/jagmohankrrai">jagmohankrrai</a></td>
   </tr>
   </tbody>
 </table>
