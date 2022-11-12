@@ -1,18 +1,8 @@
-# Join-Organisation
-Enter your details in the [StudentList.json](utils/StudentList.json) file to join the organisation.
+# Getting Started
 
-Input in format of json object after the last added data separated by comma ","
+1. Raise an Issue [here](https://github.com/GEC-Jhalawar/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GECJ+GitHub+Community) to get an invitation for joining.
 
-
-```
-{
-    "Name":"<Your Name>",
-    "Roll":"<Your Roll number / Your College Id>",
-    "Email":"<Your Email Id, preferably with which github is registered>",
-    "Github username":"<Your Github Username>"
-  }
-```
-
+2. Accept the invite and you can access all the features of repository
 
 At any stage if you face any problem or want to reach out to us open a discussion here.
 
