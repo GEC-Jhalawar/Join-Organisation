@@ -24,7 +24,7 @@ if __name__ == '__main__':
     for key in StudentList:
         data = ''
         for student in StudentList[key]:
-            data += '  <tr>\n    <td>'+ student.get("Name") + '</td>\n    <td>'+ student.get("Roll") + '</td>\n    <td>'+ student.get("Email") + '</td>\n    <td>'+ student.get("Github username") + '</td>\n  </tr>'
+            data += '  <tr>\n    <td>'+ student.get("Name") + '</td>\n    <td>'+ student.get("Roll") + '</td>\n    <td>'+ student.get("Email") + '</td>\n    <td><a href="https://github.com/' + student.get("Github username") + '">'+ student.get("Github username") + '</a></td>\n  </tr>'
         tables += '### '+key+'\n\n<table align="center">\n  <thead>\n    <tr>\n      <td>Name</td>\n      <td>Roll</td>\n      <td>Email</td>\n      <td>Github username</td>\n    </tr>\n  </thead>\n  <tbody>\n' + data + '\n  </tbody>\n</table>\n\n\n'
     content = '<!-- Student Data Start -->\n' + tables + '<!-- Student Data End -->'
     rewritten_entries = replace_writing(readme, content)
