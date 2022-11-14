@@ -2,7 +2,7 @@
 
 1. Raise an Issue [here](https://github.com/GEC-Jhalawar/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GECJ+GitHub+Community) to get an invitation for joining.
 
-2. Accept the invite and you can access all the features of repository
+2. Accept the invite and you can access all of the repository
 
 At any stage if you face any problem or want to reach out to us open a discussion here.
 
