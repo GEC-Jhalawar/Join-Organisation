@@ -3,10 +3,10 @@ on:
   workflow_dispatch:
   issues:
     types:
-      - labeled
+      - closed
 jobs:
   add-student:
-    if: github.event.label.name == 'invite me to the organisation'
+    if: github.event.label.name == 'invite me to the organisation' && github.event.label.name == 'approved'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
