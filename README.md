@@ -50,16 +50,6 @@ All done! Create your Pull Request and you will get an invite to join this Organ
     <td>dummy 20-24</td>
     <td>dummy 20-24</td>
     <td><a href="https://github.com/dummy 20-24">dummy 20-24</a></td>
-  </tr>  <tr>
-    <td>Aryan</td>
-    <td>test</td>
-    <td>test</td>
-    <td><a href="https://github.com/nskdnskd">nskdnskd</a></td>
-  </tr>  <tr>
-    <td>Aryan</td>
-    <td>Raj</td>
-    <td>test</td>
-    <td><a href="https://github.com/test">test</a></td>
   </tr>
   </tbody>
 </table>
