@@ -15,7 +15,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           file-path: 'utils/StudentList.json'
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
           python-version: 3.8
       - name: Update README
@@ -26,7 +26,7 @@ jobs:
           cat README.md
       - name: Commit and push if README changed
         run: |-
-          git pull ...
+          git merge main
           git diff
           git config --global user.email "aryaraj132@gmail.com"
           git config --global user.name "README-bot"
