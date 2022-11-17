@@ -6,7 +6,7 @@ on:
       - labeled
 jobs:
   add-student:
-    if: github.event.label.name == 'approved'
+    if: github.event.label.name == 'approved-invite'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
