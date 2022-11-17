@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-{"Batch 2019-2023":[{"Name":"Aryan Raj","Roll":"19EEJCS007","Email":"aryaraj132@gmail.com","Github username":"aryaraj132"}],"Batch 2020-2024":[{"Name":"Dummy 20-24","Roll":"dummy 20-24","Email":"dummy 20-24","Github username":"dummy 20-24"},{"Name":"Aryan","Roll":"test","Email":"test","Github username":"nskdnskd"},{"Name":"Aryan","Roll":"Raj","Email":"test","Github username":"test"}]}
-=======
 {
 	"Batch 2019-2023": [
 		{
@@ -16,7 +13,6 @@
 			"Roll": "dummy 20-24",
 			"Email": "dummy 20-24",
 			"Github username": "dummy 20-24"
-		}=
+		}
 	]
 }
->>>>>>> 663434d (chores)
