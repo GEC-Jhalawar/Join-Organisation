@@ -15,6 +15,7 @@ jobs:
           github-token: ${{ secrets.MY_TOKEN }}
           file-path: 'utils/StudentList.json'
   automate_invite:
+    if: github.event.label.name == 'approved-invite'
     runs-on: ubuntu-latest
     steps:
       - name: Invite on label
