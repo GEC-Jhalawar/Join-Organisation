@@ -6,7 +6,7 @@
 
 At any stage if you face any problem or want to reach out to us open a discussion here.
 
-All done! Create your Pull Request and you will get an invite to join this Organisation.
+All done! Feel free to checkout other repositories and contribute.
 
 ## List of Students
 
