@@ -26,7 +26,7 @@ jobs:
           cat README.md
       - name: Commit and push if README changed
         run: |-
-          git merge main
+          git pull --rebase
           git diff
           git config --global user.email "aryaraj132@gmail.com"
           git config --global user.name "README-bot"
