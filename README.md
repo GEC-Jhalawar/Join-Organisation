@@ -33,37 +33,5 @@ All done! Create your Pull Request and you will get an invite to join this Organ
 </table>
 
 
-### Batch 2020-2024
-
-<table align="center">
-  <thead>
-    <tr>
-      <td>Name</td>
-      <td>Roll</td>
-      <td>Email</td>
-      <td>Github username</td>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td>Dummy 20-24</td>
-    <td>dummy 20-24</td>
-    <td>dummy 20-24</td>
-    <td><a href="https://github.com/dummy 20-24">dummy 20-24</a></td>
-  </tr>  <tr>
-    <td>Aryan</td>
-    <td>test</td>
-    <td>test</td>
-    <td><a href="https://github.com/test">test</a></td>
-  </tr>  <tr>
-    <td>Aryan</td>
-    <td>test</td>
-    <td>test</td>
-    <td><a href="https://github.com/test">test</a></td>
-  </tr>
-  </tbody>
-</table>
-
-
 <!-- Student Data End -->
 
