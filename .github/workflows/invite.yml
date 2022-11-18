@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: GEC-Jhalawar/gh-action-community/src/add-student@main
+      - uses: GEC-Jhalawar/gh-action-add-students/src/add-student@main
         with:
           github-token: ${{ secrets.MY_TOKEN }}
           file-path: 'utils/StudentList.json'
