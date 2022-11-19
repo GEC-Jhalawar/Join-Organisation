@@ -50,6 +50,11 @@ All done! Feel free to checkout other repositories and contribute.
     <td>20EEJCS006</td>
     <td>goyaln34@gmail.com</td>
     <td><a href="https://github.com/namankgoyal">namankgoyal</a></td>
+  </tr>  <tr>
+    <td>Yagyesh Sharma</td>
+    <td>20EEJCS014</td>
+    <td>syagyesh91@gmail.com</td>
+    <td><a href="https://github.com/syagyesh">syagyesh</a></td>
   </tr>
   </tbody>
 </table>
