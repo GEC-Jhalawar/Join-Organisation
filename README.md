@@ -33,5 +33,27 @@ All done! Feel free to checkout other repositories and contribute.
 </table>
 
 
+### Batch 2020-2024
+
+<table align="center">
+  <thead>
+    <tr>
+      <td>Name</td>
+      <td>Roll</td>
+      <td>Email</td>
+      <td>Github username</td>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>Naman Goyal</td>
+    <td>20EEJCS006</td>
+    <td>goyaln34@gmail.com</td>
+    <td><a href="https://github.com/namankgoyal">namankgoyal</a></td>
+  </tr>
+  </tbody>
+</table>
+
+
 <!-- Student Data End -->
 
